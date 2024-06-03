@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Testing!");
         System.out.println("Pull Successfully!");
+        System.out.println("Push Successfully!");
         for (int i = 1; i <= 5; i++){
             System.out.println("i = " + i);
         }
